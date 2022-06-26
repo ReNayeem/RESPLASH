@@ -1,2 +1,6 @@
-# RESPLASH
- RESPLASH is a social picture sharing app.
+Back-End
+npm i -g @sanity/cli
+
+Sanity
+sanity init
+Yes
